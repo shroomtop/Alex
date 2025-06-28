@@ -1,0 +1,23 @@
+# HTML/Static Site
+.DS_Store
+node_modules/
+dist/
+build/
+.env
+*.log
+.cache/
+*.tmp
+*.bak
+.vscode/
+.idea/
+*.swp
+*.zip
+*.tar.gz
+npm-debug.log*
+yarn-error.log*
+package-lock.json
+# GitHub Pages artifacts
+docs/
+_out/
+# System files
+Thumbs.db
